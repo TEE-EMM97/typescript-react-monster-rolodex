@@ -1,6 +1,7 @@
 {
   "name": "monster-rolodex",
   "version": "0.1.0",
+  "homepage": "https://TEE-EMM97.github.io/typescript-react-monster-rolodex",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -41,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "sass": "^1.53.0"
   }
 }
