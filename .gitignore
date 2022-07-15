@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.yarn/cache/immutable-npm-4.1.0-f6635927b8-b9bc1f14fb.zip
+.yarn/cache/sass-npm-1.53.0-84886439f0-4bcb0617d6.zip
+.yarn/install-state.gz
